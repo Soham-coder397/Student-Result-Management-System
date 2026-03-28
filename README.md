@@ -13,3 +13,5 @@
 <img width="1681" height="909" alt="register" src="https://github.com/user-attachments/assets/15606188-47b4-42fe-a82e-25b897290a54" />
 # Login window
 <img width="1678" height="910" alt="login" src="https://github.com/user-attachments/assets/87611d84-1768-4588-9870-c3fb634e3625" />
+# Forget password window
+<img width="492" height="532" alt="forget_pass" src="https://github.com/user-attachments/assets/213e2276-274d-4d3a-8656-974c8007ac3a" />
